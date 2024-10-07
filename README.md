@@ -177,7 +177,73 @@ git remote add origin https://github.com/Dhananjay-cmd/Interview-.git
 | 21     | Word Break                                           |      [LeetCode](https://leetcode.com/problems/word-break/) ,              [InterviewBit](https://www.interviewbit.com/problems/word-break/)                                                        |
 | 22     | Interleaving String                                  | [LeetCode](https://leetcode.com/problems/interleaving-string/) , [InterviewBit](https://www.interviewbit.com/problems/interleaving-strings/)                                              |
 | 23     | Matrix Chain Multiplication                          | [LeetCode](https://leetcode.com/problems/burst-balloons/)                                                            |
-| 24     | Palindrome Partitioning                              | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                |
+| 24     | Palindrome Partitioning                              | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                  
+
+Sure! Here’s a list of important dynamic programming problems along with their LeetCode links. You can easily paste this into your README file on GitHub.
+
+### Important Dynamic Programming Problems
+
+1. **Longest Increasing Subsequence**
+   - [LeetCode 300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+2. **0/1 Knapsack Problem**
+   - [LeetCode 416: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+3. **Coin Change Problem**
+   - [LeetCode 322: Coin Change](https://leetcode.com/problems/coin-change/)
+
+4. **Edit Distance**
+   - [LeetCode 72: Edit Distance](https://leetcode.com/problems/edit-distance/)
+
+5. **Maximum Subarray Sum**
+   - [LeetCode 53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+6. **Longest Common Subsequence**
+   - [LeetCode 1143: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+7. **Unique Paths**
+   - [LeetCode 62: Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+8. **Palindrome Partitioning**
+   - [LeetCode 131: Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+
+9. **Word Break Problem**
+   - [LeetCode 139: Word Break](https://leetcode.com/problems/word-break/)
+
+10. **Subset Sum Problem**
+    - [LeetCode 416: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) (Also applicable here)
+
+11. **House Robber Problem**
+    - [LeetCode 198: House Robber](https://leetcode.com/problems/house-robber/)
+
+12. **Minimum Path Sum**
+    - [LeetCode 64: Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+
+13. **Maximum Product Subarray**
+    - [LeetCode 152: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+14. **String Interleaving**
+    - [LeetCode 97: Interleaving String](https://leetcode.com/problems/interleaving-string/)
+
+15. **Triangle Problem**
+    - [LeetCode 120: Triangle](https://leetcode.com/problems/triangle/)
+
+16. **Capacity to Ship Packages Within D Days**
+    - [LeetCode 1011: Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+17. **Find Minimum in Rotated Sorted Array**
+    - [LeetCode 153: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+18. **Longest Palindromic Substring**
+    - [LeetCode 5: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+19. **Frog Jump**
+    - [LeetCode 403: Frog Jump](https://leetcode.com/problems/frog-jump/)
+
+20. **Burst Balloons**
+    - [LeetCode 312: Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+
+Feel free to add or modify this list according to your needs!|
 
 ## Graph
 | **ID** | **PROBLEM STATEMENT**                                | **PROBLEM LINK**                        |
