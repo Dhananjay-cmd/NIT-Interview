@@ -260,7 +260,8 @@ Feel free to add or modify this list according to your needs!|
 | 9     | Alien Dictionary                                      | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                                          |
 | 10     | Word Search                                    | [LeetCode](https://leetcode.com/problems/word-search/)  , [InterviewBit](https://www.interviewbit.com/problems/word-search-board/)                                              |
 | 11     | Word Search 2                             | [LeetCode](https://leetcode.com/problems/word-search-ii/)  , [GFG](https://practice.geeksforgeeks.org/problems/word-boggle4143/1/?category[]=Graph&category[]=Graph&page=2&query=category[]Graphpage2category[]Graph)                                               |
-| 12      | Word Ladder                                  | [InterviewBit](https://www.interviewbit.com/problems/word-ladder-i/) , [LeetCode](https://leetcode.com/problems/word-ladder/)      
+| 12      | Word Ladder                                  | [InterviewBit](https://www.interviewbit.com/problems/word-ladder-i/) , [LeetCode](https://leetcode.com/problems/word-ladder/)      |
+
 Here’s a list of top LeetCode graph problems, each with its corresponding link. These problems cover graph traversal, cycle detection, shortest path, union-find, topological sorting, and more.
 
 ### **Top LeetCode Graph Problems with Links**:
