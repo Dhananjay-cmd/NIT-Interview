@@ -127,6 +127,48 @@ git remote add origin https://github.com/Dhananjay-cmd/Interview-.git
 | 4      | Inorder Successor in BST      |  [LeetCode](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)                             |
 | 5      | Kth Smallest node in BST       |        [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                       |
 
+Here’s a comprehensive list of common Binary Tree, Binary Search Tree (BST), and Trie problems from LeetCode, along with links to each problem:
+
+### Binary Tree Problems
+1. **[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)** (Easy)
+2. **[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)** (Easy)
+3. **[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)** (Easy)
+4. **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)** (Medium)
+5. **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)** (Easy)
+6. **[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)** (Easy)
+7. **[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)** (Easy)
+8. **[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)** (Easy)
+9. **[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)** (Medium)
+10. **[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)** (Easy)
+11. **[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)** (Medium)
+12. **[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)** (Medium)
+
+### Binary Search Tree (BST) Problems
+1. **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)** (Medium)
+2. **[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)** (Medium)
+3. **[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)** (Medium)
+4. **[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)** (Medium)
+5. **[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)** (Medium)
+6. **[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)** (Medium)
+7. **[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)** (Easy)
+8. **[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)** (Medium)
+9. **[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)** (Easy)
+10. **[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)** (Easy)
+
+### Trie (Prefix Tree) Problems
+1. **[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)** (Medium)
+2. **[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)** (Medium)
+3. **[Replace Words](https://leetcode.com/problems/replace-words/)** (Medium)
+4. **[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)** (Medium)
+5. **[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)** (Hard)
+6. **[Spell Checker](https://leetcode.com/problems/spell-checker/)** (Medium)
+7. **[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)** (Hard)
+8. **[Design Add and Search Words Data Structure](https://leetcode.com/problems/add-and-search-word-data-structure-design/)** (Medium)
+9. **[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)** (Medium)
+10. **[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)** (Medium)
+
+This list includes a variety of problems across Binary Trees, BSTs, and Tries, suitable for honing your skills in tree data structures and preparing for coding interviews. Each link leads to the corresponding LeetCode problem page where you can find detailed problem descriptions, examples, and discussion forums for solutions. |
+
 ### Heap and Priority Queue
 | **ID** | **PROBLEM STATEMENT**                    | **PROBLEM LINK**                              |
 |--------|------------------------------------------|-----------------------------------------------|
