@@ -15,6 +15,7 @@ git remote add origin https://github.com/Dhananjay-cmd/Interview-.git
 - [Algorithms](#algorithms)
   - [Binary Search](#binary-search)
   - [Dynamic Programming](#dynamic-programming)
+  - [Graph](#Graph)
 - [Database](#database)
 - [Networking](#networking)
 
@@ -260,7 +261,79 @@ Feel free to add or modify this list according to your needs!|
 | 10     | Word Search                                    | [LeetCode](https://leetcode.com/problems/word-search/)  , [InterviewBit](https://www.interviewbit.com/problems/word-search-board/)                                              |
 | 11     | Word Search 2                             | [LeetCode](https://leetcode.com/problems/word-search-ii/)  , [GFG](https://practice.geeksforgeeks.org/problems/word-boggle4143/1/?category[]=Graph&category[]=Graph&page=2&query=category[]Graphpage2category[]Graph)                                               |
 | 12      | Word Ladder                                  | [InterviewBit](https://www.interviewbit.com/problems/word-ladder-i/) , [LeetCode](https://leetcode.com/problems/word-ladder/)      
+Here’s a list of top LeetCode graph problems, each with its corresponding link. These problems cover graph traversal, cycle detection, shortest path, union-find, topological sorting, and more.
 
+### **Top LeetCode Graph Problems with Links**:
+
+1. **Graph Traversal (BFS/DFS)**:
+   - **[Number of Islands](https://leetcode.com/problems/number-of-islands/)**  
+     (Medium) - Use BFS or DFS to count the number of islands in a 2D grid.
+   - **[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)**  
+     (Medium) - Find the maximum area of connected land.
+   - **[Clone Graph](https://leetcode.com/problems/clone-graph/)**  
+     (Medium) - Clone a graph using DFS or BFS.
+   - **[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)**  
+     (Medium) - Use BFS to calculate the time required for all oranges to rot.
+   - **[Flood Fill](https://leetcode.com/problems/flood-fill/)**  
+     (Easy) - Implement the flood fill algorithm.
+
+2. **Cycle Detection**:
+   - **[Course Schedule](https://leetcode.com/problems/course-schedule/)**  
+     (Medium) - Detect cycles in a directed graph using BFS (Topological Sort) or DFS.
+   - **[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)**  
+     (Medium) - Return a valid course order or detect a cycle.
+   - **[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)**  
+     (Medium) - Identify safe nodes in a directed graph using DFS.
+
+3. **Shortest Path**:
+   - **[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)**  
+     (Medium) - Use BFS to find the shortest path in a binary matrix.
+   - **[Network Delay Time](https://leetcode.com/problems/network-delay-time/)**  
+     (Medium) - Use Dijkstra’s algorithm to find the minimum time to send a signal to all nodes.
+   - **[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)**  
+     (Medium) - Use a modified Dijkstra’s algorithm to find the cheapest flight with up to K stops.
+   - **[Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)**  
+     (Medium) - Find the path with minimum effort using Dijkstra’s algorithm.
+
+4. **Union-Find (Disjoint Set)**:
+   - **[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)**  
+     (Medium) - Count the number of connected components in a graph.
+   - **[Accounts Merge](https://leetcode.com/problems/accounts-merge/)**  
+     (Medium) - Use Union-Find to group email accounts by the same owner.
+   - **[Redundant Connection](https://leetcode.com/problems/redundant-connection/)**  
+     (Medium) - Use Union-Find to detect cycles in an undirected graph.
+   - **[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)**  
+     (Medium) - Determine if a graph forms a valid tree using Union-Find.
+
+5. **Topological Sort**:
+   - **[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)**  
+     (Hard) - Determine the order of characters in an alien language.
+   - **[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)**  
+     (Medium) - Find the roots of trees with the minimum height using topological sorting.
+
+6. **Advanced Graph Problems**:
+   - **[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)**  
+     (Medium) - Find an Eulerian path using Hierholzer’s algorithm.
+   - **[Word Ladder](https://leetcode.com/problems/word-ladder/)**  
+     (Hard) - Transform a word into another word using the fewest transformations.
+   - **[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)**  
+     (Hard) - Find all shortest transformation sequences using BFS and backtracking.
+   - **[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)**  
+     (Medium) - Find which grid cells can flow to both the Pacific and Atlantic oceans.
+
+7. **Graph Coloring**:
+   - **[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)**  
+     (Medium) - Check if a graph is bipartite using BFS/DFS.
+
+8. **Other Interesting Graph Problems**:
+   - **[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)**  
+     (Hard) - Find critical edges in a graph using Tarjan’s Algorithm.
+   - **[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)**  
+     (Medium) - Use DFS to find all paths from node 0 to node n-1.
+
+---
+
+These problems will provide comprehensive practice across graph traversal, shortest paths, cycle detection, and more advanced concepts. Let me know if you'd like further explanation or help with any specific problem!
 |
 
 ## Database 
