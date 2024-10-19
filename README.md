@@ -146,19 +146,20 @@ Here are the additional Binary Tree questions with their corresponding LeetCode 
 12. **[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)** (Medium)
 13. **[Print Left View of Binary Tree](https://leetcode.com/problems/print-left-view-of-binary-tree/)**
 14. **[Check for BST](https://leetcode.com/problems/check-if-a-binary-tree-is-a-bst/)**
-15. **[Print Bottom View of Binary Tree](https://leetcode.com/problems/bottom-view-of-binary-tree/)**
-16. **[Print a Binary Tree in Vertical Order](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)**
-17. **[Level Order Traversal in Spiral Form](https://leetcode.com/problems/spiral-order-traversal-of-binary-tree/)**
-18. **[Connect Nodes at Same Level](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)**
-19. **[Lowest Common Ancestor in a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)**
-20. **[Convert a Given Binary Tree to Doubly Linked List](https://leetcode.com/problems/convert-binary-tree-to-doubly-linked-list/)**
-21. **[Write Code to Determine if Two Trees are Identical or Not](https://leetcode.com/problems/same-tree/)**
-22. **[Given a Binary Tree, Check Whether it is a Mirror of Itself](https://leetcode.com/problems/symmetric-tree/)**
-23. **[Height of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)**
-24. **[Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)**
-25. **[Number of Leaf Nodes](https://leetcode.com/problems/count-leaves-in-a-binary-tree/)**
-26. **[Check if Given Binary Tree is Height Balanced or Not](https://leetcode.com/problems/balanced-binary-tree/)**
-27. **[Serialize and Deserialize a Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)**
+15. **[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/)**
+16. **[Print Bottom View of Binary Tree](https://leetcode.com/problems/bottom-view-of-binary-tree/)**
+17. **[Print a Binary Tree in Vertical Order](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)**
+18. **[Level Order Traversal in Spiral Form](https://leetcode.com/problems/spiral-order-traversal-of-binary-tree/)**
+19. **[Connect Nodes at Same Level](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)**
+20. **[Lowest Common Ancestor in a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)**
+21. **[Convert a Given Binary Tree to Doubly Linked List](https://leetcode.com/problems/convert-binary-tree-to-doubly-linked-list/)**
+22. **[Write Code to Determine if Two Trees are Identical or Not](https://leetcode.com/problems/same-tree/)**
+23. **[Given a Binary Tree, Check Whether it is a Mirror of Itself](https://leetcode.com/problems/symmetric-tree/)**
+24. **[Height of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)**
+25. **[Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)**
+26. **[Number of Leaf Nodes](https://leetcode.com/problems/count-leaves-in-a-binary-tree/)**
+27. **[Check if Given Binary Tree is Height Balanced or Not](https://leetcode.com/problems/balanced-binary-tree/)**
+28. **[Serialize and Deserialize a Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)**
 
 ### Binary Search Tree (BST) Problems
 1. **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)** (Medium)
